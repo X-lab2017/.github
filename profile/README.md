@@ -3,12 +3,11 @@
 </div>
 
 
-<div align=center>
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GH Discussions](https://img.shields.io/badge/OSPO-Discussions-green)]
 [![Newsletter](https://img.shields.io/badge/OSPO-Newsletter-%2300FFFF)]
 [![twitter](https://img.shields.io/twitter/follow/todogroup?style=social)]
-</div>
+
 
 ### **🚩 关于 X-lab**
 
