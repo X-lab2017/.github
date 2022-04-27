@@ -2,11 +2,11 @@
 <img src="https://user-images.githubusercontent.com/15010826/165412908-eea08190-01bd-400d-94a7-04a32155b2fc.png" width="550px">
 </div>
 
-
+<p align="center">
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GH Discussions](https://img.shields.io/badge/Xlab-Discussions-green)](https://creativecommons.org/licenses/by/4.0/)
 [![Newsletter](https://img.shields.io/badge/Xlab-Newsletter-%2300FFFF)](https://creativecommons.org/licenses/by/4.0/)
-
+</p>
 
 ### **🚩 关于 X-lab**
 
