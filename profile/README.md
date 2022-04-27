@@ -4,8 +4,8 @@
 
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![GH Discussions](https://img.shields.io/badge/OSPO-Discussions-green)]
-[![Newsletter](https://img.shields.io/badge/OSPO-Newsletter-%2300FFFF)]
+[![GH Discussions](https://img.shields.io/badge/OSPO-Discussions-green)](https://creativecommons.org/licenses/by/4.0/)
+[![Newsletter](https://img.shields.io/badge/OSPO-Newsletter-%2300FFFF)](https://creativecommons.org/licenses/by/4.0/)
 [![twitter](https://img.shields.io/twitter/follow/todogroup?style=social)]
 
 
