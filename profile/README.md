@@ -2,11 +2,13 @@
 <img src="https://user-images.githubusercontent.com/15010826/165412908-eea08190-01bd-400d-94a7-04a32155b2fc.png" width="550px">
 </div>
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![GH Discussions](https://img.shields.io/badge/OSPO-Discussions-green)](https://github.com/todogroup/ospology/discussions)
-[![Newsletter](https://img.shields.io/badge/OSPO-Newsletter-%2300FFFF)](https://www.getrevue.co/profile/osponews)
-[![twitter](https://img.shields.io/twitter/follow/todogroup?style=social)](https://twitter.com/todogroup)
 
+<div align=center>
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![GH Discussions](https://img.shields.io/badge/OSPO-Discussions-green)]
+[![Newsletter](https://img.shields.io/badge/OSPO-Newsletter-%2300FFFF)]
+[![twitter](https://img.shields.io/twitter/follow/todogroup?style=social)]
+</div>
 
 ### **🚩 关于 X-lab**
 
