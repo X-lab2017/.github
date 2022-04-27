@@ -1,4 +1,9 @@
+<div align=center>
+<img src="https://user-images.githubusercontent.com/15010826/165412908-eea08190-01bd-400d-94a7-04a32155b2fc.png" width="550px">
+</div>
+
 ![x-lab_readme](https://user-images.githubusercontent.com/15010826/165412908-eea08190-01bd-400d-94a7-04a32155b2fc.png)
+
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GH Discussions](https://img.shields.io/badge/OSPO-Discussions-green)](https://github.com/todogroup/ospology/discussions)
