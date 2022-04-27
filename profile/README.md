@@ -1,6 +1,6 @@
 something like this~
 
-![x-lab_readme](https://user-images.githubusercontent.com/15010826/165410414-b9cef522-8db1-493b-b677-2d05cd2a7d73.jpg)
+![x-lab_readme](https://user-images.githubusercontent.com/15010826/165412138-164ccc85-e3e3-47a8-8a53-8a68fe3c090c.png)
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GH Discussions](https://img.shields.io/badge/OSPO-Discussions-green)](https://github.com/todogroup/ospology/discussions)
