@@ -4,8 +4,8 @@
 
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![GH Discussions](https://img.shields.io/badge/OSPO-Discussions-green)](https://creativecommons.org/licenses/by/4.0/)
-[![Newsletter](https://img.shields.io/badge/OSPO-Newsletter-%2300FFFF)](https://creativecommons.org/licenses/by/4.0/)
+[![GH Discussions](https://img.shields.io/badge/X-lab-Discussions-green)](https://creativecommons.org/licenses/by/4.0/)
+[![Newsletter](https://img.shields.io/badge/Xlab-Newsletter-%2300FFFF)](https://creativecommons.org/licenses/by/4.0/)
 
 
 ### **🚩 关于 X-lab**
