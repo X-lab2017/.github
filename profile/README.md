@@ -22,7 +22,7 @@ Founded in 2017, the X-lab community is a place to share experiences, develop be
 
 
 
-## 📝 Vision: 数字文明的新思想、新方法、新工具学习圣地
+## 🔭 Vision: 数字文明的新思想、新方法、新工具学习圣地
 
 
 X-lab resources are open to everyone and available at [official website] under OSS Licence and CC-BY 4.0 Licence. We encourage people to share their knowledge and help to grow this community by adding their contributions to the different X-lab initiatives such as:
@@ -59,17 +59,17 @@ X-lab resources are open to everyone and available at [official website] under O
 
 > ONES Group 是一个开源战略研究组，聚集一群在开源治理与社群运营方面有不同经历与经验的专业人士，共同推动全球开源治理的发展，建设中国的开源治理创新体系。
 
-## 📝 Value: 技术传播文明，践行同步世界，开源点亮未来
+## 🌟 Value: 技术传播文明，践行同步世界，开源点亮未来
 
-- 相信开源，相信社区。 (Believe in OS， believe in community)
-- 开放协作，开放创新。 (Working in public，open innovation)
-- 开放/连接/对等/分享（Openness, Networking，Equality，Sharing）
+- 相信开源，相信社区 (Believe in OS， believe in community)
+- 开放协作，开放创新 (Working in public，open innovation)
+- 开放 / 连接 / 对等 / 分享（Openness, Networking，Equality，Sharing, ONES）
 
 ## 📝 Community-wide objectives
 
-- 开源生态数据的收集与开发；
-- 打造开源生态位工具与平台；
-- 跨学科研究型开放创新团队。
+- 开源生态数据的收集与开发
+- 打造开源生态位工具与平台
+- 跨学科研究型开放创新团队
 
 ## 👋 Get in touch
 
