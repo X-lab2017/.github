@@ -1,4 +1,4 @@
-**<p align="center">{ Hello X-lab ! }</p>**
+**<p align="center">{ Hello! X-lab! }</p>** 👋
 
 <div align=center>
 <img src="https://user-images.githubusercontent.com/15010826/165412908-eea08190-01bd-400d-94a7-04a32155b2fc.png" width="550px">
