@@ -6,16 +6,11 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GH Discussions](https://img.shields.io/badge/OSPO-Discussions-green)](https://creativecommons.org/licenses/by/4.0/)
 [![Newsletter](https://img.shields.io/badge/OSPO-Newsletter-%2300FFFF)](https://creativecommons.org/licenses/by/4.0/)
-[![twitter](https://img.shields.io/twitter/follow/todogroup?style=social)
 
 
 ### **🚩 关于 X-lab**
 
 > **X-lab 开放实验室**定位为一个开源研究与创新的开放群体，是一群由来自国内外著名高校、创业公司、部分互联网与IT企业的专家学者与工程师所构成，聚焦于开源软件产业开放式创新的共同体。专业背景包括计算机科学、软件工程、数据科学、工商管理学、社会学、经济学等跨学科领域，长期思考并实践开源战略、开源测量学、开源数字生态系统等主题。目前已在包括开源治理标准制定、开源社区行为度量与分析、开源社区流程自动化、开源全域数据治理与洞察等方面做出了较有影响力的工作。⛵
-
-<div align=center>
-<img src="https://user-images.githubusercontent.com/15010826/159158901-924e75ba-52c3-4991-98da-caba38579a9c.png" width="150px">
-</div>
 
 💡 We like the Unix Philosophy of “**do one thing, and do it well**.”
 
@@ -67,4 +62,6 @@ X-lab resources are open to everyone and available at [official website] under O
 
 ## 👋 Get in touch
 
-Follow [@todogroup](https://twitter.com/todogroup) on Twitter and join the [Slack](https://slack.todogroup.org/)!
+<div align=center>
+<img src="https://user-images.githubusercontent.com/15010826/159158901-924e75ba-52c3-4991-98da-caba38579a9c.png" width="150px">
+</div>
