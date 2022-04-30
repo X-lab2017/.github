@@ -5,8 +5,8 @@
 </div>
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![GH Discussions](https://img.shields.io/badge/Xlab-Discussions-green)](https://creativecommons.org/licenses/by/4.0/)
-[![Newsletter](https://img.shields.io/badge/Xlab-Newsletter-%2300FFFF)](https://creativecommons.org/licenses/by/4.0/)
+[![GH Discussions](https://img.shields.io/badge/Xlab-Discussions-green)](https://github.com/X-lab2017/open-wonderland/discussions)
+[![Newsletter](https://img.shields.io/badge/Xlab-Newsletter-%2300FFFF)](https://www.getrevue.co/profile/x-lab)
 
 
 ### **🚩 关于 X-lab**
