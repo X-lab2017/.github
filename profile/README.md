@@ -43,9 +43,9 @@
 
 #### 3️⃣ **OpenResearch（学术研究型开源项目）**: https://github.com/X-lab2017/open-research
 
-> OpenResearch 定位为一个开放式学术研究与论文共创型项目，尝试用一种开放的模式进行开源学术研究的工作。
+> OpenResearch 定位为一个开放式学术研究项目，通过开源的模式形成一些研究方法、研究工具与内容产出，即用开源的方法来研究开源的现象。。
 
-更多开源创意项目：[这里]
+更多开源创意项目：[[**这里**](https://github.com/X-lab2017/open-wonderland "开源奇妙世界")]
 
 ## 🌟 Value: 技术传播文明，践行同步世界，开源点亮未来
 
