@@ -49,7 +49,7 @@
 
 ## 🌟 Value: 技术传播文明，践行同步世界，开源点亮未来
 
-- 相信开源，相信社区 (Believe in OS， believe in community)
+- 相信开源，相信社区 (Believe in open source， believe in community)
 - 开放协作，开放创新 (Working in public，open innovation)
 - 开放 / 连接 / 对等 / 分享（Openness, Networking，Equality，Sharing, ONES）
 
