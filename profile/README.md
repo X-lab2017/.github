@@ -21,6 +21,10 @@
 >
 > 🎊 X-lab 开放实验室主要活动安排一览表。[[**去瞧瞧**](https://github.com/X-lab2017/open-wonderland/tree/main/agenda "活动分享")]
 
+<div align=center>
+<img src="https://user-images.githubusercontent.com/15010826/180943441-5df8114b-c1bf-4803-887b-73455abf18ce.png" width="750px">
+</div>
+
 ## 🚀 Mission: 让开源与数字化更简单
 
 
